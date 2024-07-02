@@ -486,7 +486,15 @@ body {
     margin: 0;
 }
 
-
+.Discription7{
+    margin: 20px 0;
+    background: white;
+    width: 100%;
+    height: 800px;
+    position: relative;
+    overflow: hidden;
+    background-color: white;
+}
 .sports-p{
     color: #0689f5;
     font-size: 2em;
@@ -501,7 +509,7 @@ body {
     top: 110px; /* Adjust this value to position below the h1 element */
     left: 50px;
     color: red;
-    font-size: 3em;
+    font-size: 2em;
     font-family: 'Pacifico', cursive;
     width: 900px;
     
@@ -527,7 +535,7 @@ body {
     top: 500px; /* Adjust this value to position below the h1 element */
     right: 50px; /* Adjust this value to position to the left */
     color: red;
-    font-size: 3em;
+    font-size: 2em;
     font-family: 'Pacifico', cursive;
     width: 900px;
     
@@ -1258,7 +1266,7 @@ iframe{
         font-size: .8em;
     }
     .disc3{
-        font-size: 1em;
+        font-size: .7em;
         left: 0px;
         width: 220px;
     }
@@ -1267,7 +1275,7 @@ iframe{
         right: 20px;
     }
     .disc4{
-        font-size: 1em;
+        font-size: .7em;
         width: 220px;
     }
     .image3 img{
