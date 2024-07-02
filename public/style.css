@@ -1058,7 +1058,7 @@ iframe{
     }
     .image3 img{
        
-        top: 110px; /* Adjust this value to position below the h1 element */
+        top: 90px; /* Adjust this value to position below the h1 element */
         left: 70px; /* Adjust this value to position to the left */
         border: 6px solid cyan;
      
