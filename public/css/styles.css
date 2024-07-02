@@ -105,7 +105,8 @@ body {
 color: green;
 font-size: 8em;
 margin: 10px 0;
-font-family: 'Pacifico', cursive;
+  font-family: "Copperplate", Fantasy;
+
 }
 .ml143 .text-wrapper3 {
   position: relative;
@@ -273,10 +274,10 @@ img {
 }
 @media screen and (max-width: 360px){
   .management h1{
-    font-size: 2.3em;
+    font-size: 2em;
   }
   .faculty h1{
-    font-size: 2.3em;
+    font-size: 2em;
   }
 }
 
