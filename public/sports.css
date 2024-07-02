@@ -165,7 +165,7 @@ body {
 /* Styles for mobile and tablets */
 @media only screen and (max-width: 1023px) {
   .ml14 {
-    font-size: 4.2em;
+    font-size: 4.4em;
   }
   .slider-wrapper .slide-button {
     display: none !important;
