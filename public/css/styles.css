@@ -54,13 +54,16 @@ body {
             
    
 }
-.management h1{
+.management h1 {
   font-weight: 200;
   color: blue;
   font-size: 8em;
   margin: 10px 0;
   font-family: "Copperplate", Fantasy;
+  height: 400px;
+  text-align: center;
 }
+
 .ml142 .text-wrapper2 {
   position: relative;
   display: inline-block;
@@ -69,22 +72,24 @@ body {
   padding-bottom: 0.15em;
 }
 
-.ml142 .line2 {
-  opacity: 0;
-  position: absolute;
-  left: 0;
-  height: 2px;
-  width: 100%;
-  background-color: #fff;
-  transform-origin: 100% 100%;
-  bottom: 0;
-}
-
-.ml142 .letter2 {
+.ml142 .letters2 {
   display: inline-block;
   line-height: 1em;
 }
 
+.ml142 .line2 {
+  opacity: 1; /* Make sure the line is visible */
+  position: absolute;
+  left: -25%;
+  
+  transform: translateX(-50%);
+  height: 4px; /* Increase height */
+  width: 110%; /* Make it wider than the letters */
+   /* Change color to contrast with the background */
+  bottom: -10px; /* Adjust position if needed */
+  display: inline-block;
+  text-align: center;
+}
 
 .faculty {
   margin-top: 0px;
